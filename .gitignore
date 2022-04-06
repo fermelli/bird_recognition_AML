@@ -1,0 +1,5 @@
+models/
+birds-dataset/
+.ipynb_aml_checkpoints/
+*.amltmp
+*.amltemp
